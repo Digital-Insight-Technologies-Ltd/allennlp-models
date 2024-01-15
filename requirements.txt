@@ -1,3 +1,4 @@
+allennlp[all] @ git+https://github.com/Digital-Insight-Technologies-Ltd/allennlp@main
 torch>=1.7.0
 
 # For structured prediction.
